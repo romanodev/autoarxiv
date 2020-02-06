@@ -7,8 +7,11 @@ Submit paper to arXiv. Make it sure that Chromedriver is in your PATH
 Install this repository with
 ```console
 pip install -q --no-cache --upgrade git+https://github.com/romanodev/autoarxiv.git 
-foo
 ```
   
+Then, type 
+```console
+autoarxiv 
+```
 
-Then, type "autoarxiv" in the same directory as your paper.
+in the same directory as your paper.
