@@ -5,7 +5,10 @@ AutoArXiv is a tool to submit manuscripts to arXiv without interacting with a br
 Submit paper to arXiv. Make it sure that Chromedriver is in your PATH
 
 Install this repository with
+```console
+pip install -q --no-cache --upgrade git+https://github.com/romanodev/autoarxiv.git 
+foo
+```
+  
 
-pip install -q --no-cache --upgrade git+https://github.com/romanodev/autoarxiv.git   
-
-Then,type "autoarxiv" in the same directory as your paper.
+Then, type "autoarxiv" in the same directory as your paper.
