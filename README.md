@@ -2,6 +2,7 @@
 
 AutoArXiv is a tool to submit manuscripts to arXiv without interacting with a broswer. You will need a zip file containing at least a *.tex file. Lastly, you'll need Chromedriver in your PATH. The manuscript will be sumbitted once you are asked so at the end of the process. 
 
+[NOTE: this repo is only for inspirational purposes. It is not actively maintained]
 
 Requeriments:
 
